@@ -5,3 +5,6 @@ This program will crack any password in Winrar
 
 2) Then double click on the batch file to run it
 
+3) Write name of the rar file and write the path of the rar file
+
+4) Note: the rar file should be in the path C:\Program Files\WinRAR
